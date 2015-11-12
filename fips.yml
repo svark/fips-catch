@@ -3,4 +3,4 @@
 #
 ---
 exports:
-    header-dirs: [ single_include ]
+    header-dirs: [ catch/single_include ]
